@@ -1,2 +1,2 @@
 # landing page
-A very unique, modern and fresh looks single page UI/UX design.
+A unique, modern, and fresh looks single-page UI/UX design.
